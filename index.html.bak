@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Homepage</title>
+<style> 
+.div-a{ float:left;width:19%;border:0px solid #F00} 
+.div-b{ float:left;width:49%;border:1px solid #000} 
+</style> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<div id="wrapper">
+  <div class="div-a">
+  	<h1>Shandian Zhe</h1>
+    <img src='./img/pic.jpg' height="400"/> 
+  </div>
+  <hr class="noscreen" />
+  <div class="content">
+    <div>
+      <h3>About Me</h3>
+      <p>I am currently a student in PhD program in Computer Science Department of Purdue University. My advisor is Prof. <a href='https://www.cs.purdue.edu/homes/alanqi/'>Alan Qi</a>. I received my bachelor's degree in computer science and technology from Beijing University of Aeronautics &amp; Astronautics (BUAA) and my master degree in computer science from Institute of Computing Technology, Chinese Academy of Sciences (CAS). </p>
+      <p>Email: szhe at purdue.edu 
+      <br>Address: Lawson 2149-22, 305 N. University Street, West Lafayette, IN 47907-2107</p>
+    </div>
+    <div>
+      <div>
+        <div>
+          <h2><a href='./pdf/cv_shandianzhe.pdf'>Curriculum Vitae</a></h2>
+          <h2>Research Interest</h2>
+          <p>Statistical machine learning, mainly in sparse Bayesian modeling, non-parametric Bayesian learning (e.g., Gaussian process) and large scaled Bayesian inference. I am also interested in applications of machine learning in Bioinformatics, social network analysis, and collaborative filtering.</p>
+          <h2>Award</h2>
+          <li><a href='https://research.googleblog.com/2016/03/announcing-2016-google-phd-fellows-for.html'>Google PhD Fellowship for Machine Learning 2016</a></li>
+          <li>AAAI 2015 Outstanding Student Paper Honorable Mention</li>
+          <li>PSB 2014 travel award</li>
+          <h2>Publications</h2>
+          <ul class="main-list">
+              <li>
+                  <strong>Shandian Zhe</strong>, Kuang-chih Lee, Kai Zhang, and Jennifer Neville, Online Spike-and-slab Inference with Stochastic Expectation Propagation,  NIPS 2016 Workshop on Advances in Approximate Bayesian Inference (AABI). 
+              </li>
+              <br>
+              <li>
+                  <strong>Shandian Zhe</strong>, Kai Zhang, Pengyuan Wang, Kuang-chih Lee, Zenglin Xu, Yuan Qi and Zoubin Ghahramani, Distributed Flexible Nonlinear Tensor Factorization, Neural Information Processing Systems (NIPS 2016), to appear.
+              </li>
+              <br>
+              <li> Zenglin Xu*, <strong>Shandian Zhe</strong>*, Yuan Qi and Peng Yu, Association Discovery and Diagnosis of Alzheimer's Disease with Bayesian Multiview Learning, Journal of Artificial Intelligence Research, Volume 56, pages 247-268 (* equal contribution).
+              </li>
+              <br>
+              <li>Kai Zhang, <strong>Shandian Zhe</strong>, Chaoran Cheng, Zhi Wei, Zhengzhang Chen,Haifeng Chen, Guofei Jiang, Yuan Qi and Jieping Ye, Annealed Sparsity via Adaptive and Dynamic Shrinking,  The 22nd ACM SIGKDD Conference on Knowledge Discovery and 
+              Data Mining (KDD 2016), San Francisco, CA, August, 2016.</li>
+              <br>
+              <li><strong>Shandian Zhe</strong>, Yuan Qi, Youngja Park, Zenglin Xu, Ian Molloy and Suresh Chari, DinTucker:  Scaling up Gaussian Process Models on Large Multidimensional Arrays, AAAI-2016.</li>
+              <br>
+              <li>Syed Abbas Z. Naqvi, <strong>Shandian Zhe</strong>, Yuan Qi, Yifan Yang and Jieping Ye,  Fast Laplace Approximation for Sparse Bayesian Spike and Slab Models,Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence (IJCAI-16).</li>
+              <br>
+              <!--
+              <li><strong>Shandian Zhe</strong>, Pengyuan Wang, Kuang-chih Lee, Zenglin Xu, Jian Yang, Youngja Park and Yuan Qi, Distributed Flexible Nonlinear Tensor Factorization for Large Scale Multiway Data Analysis. NIPS 2015 Workshop on Networks in the Social Science and Information Sciences.</li>
+              <br>
+              -->
+              <li><strong>Shandian Zhe</strong>, Zenglin Xu, Xinqi Chu, Yuan Qi and Youngja Park , Scalable Nonparametric Multiway Data Analysis. Artificial Intelligence and Statistics (AISTATS), 2015. </li>
+              <br>
+              <li>Changying Du, <strong>Shandian Zhe</strong>, Fuzhen Zhuang, Yuan Qi, Qing He, Zhongzhi Shi. Bayesian maximum margin PCA. The 29th AAAI Conference on Artificial Intelligence (AAAI-15), Austin, Texas, USA, January 25-29, 2015.</li>
+              <br>
+              <li><strong>Shandian Zhe</strong>, Zenglin Xu, Yuan Qi and Peng Yu, Sparse Bayesian multiview learning for simultaneous association discovery and diagnosis of Alzheimer&apos;s Disease, AAAI 2015 (<strong>Outstanding Student Paper Honorable Mention</strong>).</li> 
+              <br>
+              <!--
+              <li><strong>Shandian Zhe</strong>, Zenglin Xu, Xinqi Chu, Yuan Qi, Youngja Park. Scalable nonparametric multiway data analysis. NIPS 2014 workshop &quot;Networks: From Graphs to Rich Data&quot;.</li>
+              -->
+              <li><strong>Shandian Zhe</strong>, Zenglin Xu, Yuan Qi and Peng Yu, Joint association discovery and diagnosis for Alzheimer&apos;s Disease by supervised heterogeneous multiview learning (oral presentation), in Proceedings of the Pacific Symposium on Biocomputing, The Big Island of Hawaii, 2014.</li> 
+              <br>
+              <li><strong>Shandian Zhe</strong>, Syed A.Z. Naqvi, Yifan Yang, and Yuan Qi, Joint network and node selection for pathway-based genomic data analysis, Bioinformatics, Oxford, 2013.</li>
+              <br>
+              <li><strong>Shandian Zhe</strong>, Tian Xia, Xueqi Cheng, Modeling users &apos; information goal transitions and satisfaction judgment: understanding the full search process, In Proceeding of Web Intelligence, 2010.</li>
+              <br>
+              <li>Tian Xia, <strong>Shandian Zhe</strong>, Jinsong Su, Qun Liu: Conditional random fields for machine translation system combination. In proceedings of the International Conference on Asian Language Processing, 2010.</li>
+          </ul>
+      <h2>Working Experience</h2> 
+      <li>Yahoo! Ad Science and Data team, 05/2016-08/2016</li>
+      <li>Yahoo! Labs, 05/2015-08/2015</li>
+      <li>NEC Laboratories America, INC. 05/2014-08/2014</li>
+      <li>Sogou search company, Assistant Researcher, 05/2011-12/2011</li>
+      <li>Microsoft Research Asia, Research Intern, 09/2010-03/2011 </li>
+      <li>Microsoft Advanced Technology Center, Research and Software Development Intern, 09/2007-03/2008</li>
+      <h2>Professional Serverices</h2>
+      <li>Reviewer for International Conference for Machine Learning (ICML) 2014, 2015</li>
+      <li>Reviewer for Neural Information Processing Systems (NIPS) 2015, 2016</li>
+      <li>Reviewer for Journal of Machine Learning Research (JMLR)</li>
+      <li>Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</li>
+      <li>Reviewer for IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
+      <h2>Source Code</h2>
+	  <ul>
+	  	<li>A simple yet effective variational inference of Spike and Slab model for binary classification:  <a href='./code/ss_probit.zip'>[Download] </a></li>
+		<li>NaNOS, joint network and node selection for pathway-based genomic data analysis: <a href='./code/NaNOS.zip'>[Download]</a></li>
+        <li><a href='http://sourceforge.net/projects/crfany/'>CrfAny</a>, a C++ implementation of CRF package which supports parallel training, maximum likelihood and pseudolikelihood training, and  all types of graphical structures, with junction tree algorithm for exact inference.</li>
+	  </ul>
+        </div>
+      </div>
+  </div>
+    <div class="cleaner">&nbsp;</div>
+  </div>
+</div>
+</html>
